@@ -1,0 +1,16 @@
+[
+  {
+      "id": "hex1",
+      "prompts": [
+          "happy pink cat",
+          "happy blue cat"
+      ]
+  },
+  {
+      "id": "hex2",
+      "prompts": [
+          "happy pink dog",
+          "happy blue dog"
+      ]
+  }
+]
